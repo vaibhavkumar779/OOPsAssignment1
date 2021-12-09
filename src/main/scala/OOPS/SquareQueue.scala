@@ -1,0 +1,5 @@
+package OOPS
+
+class SquareQueue {
+
+}
