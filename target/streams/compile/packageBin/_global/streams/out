@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/knoldus/Knoldus/OOPsAssignment1/target/scala-2.13/oopsassignment1_1708_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OOPS[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Knoldus/OOPsAssignment1/target/scala-2.13/classes/OOPS[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OOPS/Queue.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Knoldus/OOPsAssignment1/target/scala-2.13/classes/OOPS/Queue.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OOPS/SquareQueue.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Knoldus/OOPsAssignment1/target/scala-2.13/classes/OOPS/SquareQueue.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OOPS/main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Knoldus/OOPsAssignment1/target/scala-2.13/classes/OOPS/main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OOPS/DoubleQueue.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Knoldus/OOPsAssignment1/target/scala-2.13/classes/OOPS/DoubleQueue.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OOPS/main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Knoldus/OOPsAssignment1/target/scala-2.13/classes/OOPS/main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
